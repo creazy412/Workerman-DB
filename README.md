@@ -14,3 +14,4 @@ php start.php status
 https://github.com/walkor/shadowsocks-php  
 https://github.com/walkor/php-http-proxy
 # Workerman-DB
+这是一个基于Workerman3.3.3版本的扩展，里面加入了Tcp、UDP的发送与接收消息的内容，并且加入了流程PDO-Mysql的支持（据说wm框架本身有自带连接mysql的功能），这是一个简单的已在生产环境中试验过的代码，可用的
